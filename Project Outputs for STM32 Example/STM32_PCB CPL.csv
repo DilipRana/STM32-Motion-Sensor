@@ -1,0 +1,48 @@
+Altium Designer Pick and Place Locations,,,,,,,
+D:\Dilip\Workspace\Altium\STM32 Example\Project Outputs for STM32 Example\Pick Place for STM32_PCB.csv,,,,,,,
+,,,,,,,
+========================================================================================================================,,,,,,,
+File Design Information:,,,,,,,
+,,,,,,,
+Date:       29/05/23,,,,,,,
+Time:       18:50,,,,,,,
+Revision:   Not in VersionControl,,,,,,,
+Variant:    No variations,,,,,,,
+Units used: mm,,,,,,,
+,,,,,,,
+Designator,Comment,Layer,Footprint,Mid X,Mid Y,Rotation,Description
+X1,24MHz,Top,XTAL_3225,89,59.5,270,Crystal SMD 24MHz 10PPM 7pF 3225
+U3,MPU-6050,Top,QFN50P400X400X95-24N,98.2,77.3,180,"MPU-6050 series Accelerometer, Gyroscope, 3 Axis Sensor Evaluation Board"
+U2,STM32F411CEU6,Top,QFN50P700X700X60-49N,100,66,0,"High-performance access line, ARM Cortex-M4 core with DSP and FPU, 512 Kbytes Flash, 100 MHz CPU, ART Accelerator"
+U1,AMS1117,Top,SOT229P700X180-4N,110.6,52.655,270,1A LOW DROPOUT VOLTAGE REGULATOR SOT-223
+R7,0R,Top,RES_0402,91.7,64.4,0,Resistor SMD 0402
+R6,1k,Top,RES_0402,105.7,62.3,180,Resistor SMD 0402
+R5,2k2,Top,RES_0402,100.1,73.3,180,Resistor SMD 0402
+R4,2k2,Top,RES_0402,102.7,73,0,Resistor SMD 0402
+R3,10k,Top,RES_0402,97.5,73.3,0,Resistor SMD 0402
+R2,10k,Top,RES_0402,108.4,82.7,0,Resistor SMD 0402
+R1,1k,Top,RES_0402,118.5,58.2,270,Resistor SMD 0402
+J3,SM06B-GHS-TB,Top,SM06B-GHS-TB,98.9,52.4,0,Header Connector 6 Position 1.25MM Pitch SMD Horizontal JST GH
+J2,TC2030,Top,TC2030-FP,106.6,77.4,180,Tag-Connect No-Solder SWD Debug Connector DO NOT PLACE
+J1,47346-0001,Top,MOLEX_47346-0001,118.37,67.6,90,"USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle"
+FB1,120R,Top,FB_0603,110.4,64.8,180,Ferrite Bead SMD 0603
+D2,RED,Top,LED_0402_RED,105.7,64,0,LED 0402 RED SMD
+D1,GREEN,Top,LED_0402_GREEN,118.5,55.4,90,LED 0402 GREEN SMD
+C18,10p,Top,CAP_0402,91.7,62.7,180,Capacitor SMD 0402 16V
+C17,10p,Top,CAP_0402,88.5,62.7,180,Capacitor SMD 0402 16V
+C16,2n2,Top,CAP_0402,94.1,74,180,Capacitor SMD 0402 16V
+C15,100n,Top,CAP_0402,96.6,80.9,180,Capacitor SMD 0402 16V
+C14,100n,Top,CAP_0402,94.6,79,90,Capacitor SMD 0402 16V
+C13,10n,Top,CAP_0402,99.1,80.9,180,Capacitor SMD 0402 16V
+C12,2u2,Top,CAP_0603,100.5,60.5,180,Capacitor SMD 0603 16V
+C11,100n,Top,CAP_0402,105.9,82.7,0,Capacitor SMD 0402 16V
+C10,2u2,Top,CAP_0603,92.5,69,270,Capacitor SMD 0603 16V
+C9,100n,Top,CAP_0402,94.45,64.4,90,Capacitor SMD 0402 16V
+C8,100n,Top,CAP_0402,94.5,69,90,Capacitor SMD 0402 16V
+C7,100n,Top,CAP_0402,97.5,71,180,Capacitor SMD 0402 16V
+C6,100n,Top,CAP_0402,105,68.5,90,Capacitor SMD 0402 16V
+C5,100n,Top,CAP_0402,103.5,60.5,0,Capacitor SMD 0402 16V
+C4,22u,Top,CAP_0805,115.8,52.9,270,Capacitor SMD 0805 16V
+C3,22u,Top,CAP_0805,110.3,58.8,180,Capacitor SMD 0805 16V
+C2,2u2,Top,CAP_0603,109.4,62.1,90,Capacitor SMD 0603 16V
+C1,2u2,Top,CAP_0603,111.3,62.1,90,Capacitor SMD 0603 16V
